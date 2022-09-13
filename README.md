@@ -5,7 +5,7 @@
 * No. Present : 11
 * Kelas : TI 3H
 * Screenshot Hasil Sebagai Berikut :
-* <img src="./assets/images/output.png">
+* <img src="./assets/images/output.PNG">
 A new Flutter project.
 
 ## Getting Started
